@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+main {
+  width: 99vw;
+  height: 60vh;
+  display: flex;
+}
+
+.aside {
+  width: 99vw;
+  height: 20vh;
+  border: solid 1px black;
+}
+
+.rps-box {
+  width: 35%;
+  height: 100%;
+  border: solid 3px black;
+}
+
+.countdown {
+  width: 29%;
+  height: 100%;
+}
+
+.selection-wrapper {
+  margin: 20px;
+}
+
+header {
+  display: flex;
+}
+
+header > div {
+  margin: 10px;
+  min-width: 100px;
+  min-height: 70px;
+  border: solid 1px black;
+}
+
+div > h1 {
+  margin: 2px;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+}
