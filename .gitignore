@@ -4,4 +4,4 @@ node_modules
 */node_modules/
 
 # socketIO lecture video is too big for git hub
-*/socketIO-lecture.mp4
+**/socketIO-lecture.mp4
